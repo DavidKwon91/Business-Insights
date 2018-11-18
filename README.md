@@ -4,5 +4,5 @@
 
 ### The brief description for the data challenge is to provide 3 business insights from 2 tables, not like basic things. 
 
-## Please refer to the Business-Insights.md file. 
+## Please refer to the Business-Insights.md and inMarket Data Challenge.pdf files.
 ## Thank you!!
